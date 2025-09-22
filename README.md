@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mricharleon" target="blank"><img src="https://img.shields.io/twitter/follow/mricharleon?logo=twitter&style=for-the-badge" alt="mricharleon" /></a> </p>
 
-- 🔭 I’m currently working on [Serviestudios](https://isyplus.com)
+- 🔭 I’m currently working on [Animalizate](https://animalizate.org)
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently developing in **flutter**
 
-- 👯 I’m looking to collaborate on [camaronplus](https://camaronplus.com)
-
-- 🤝 I’m looking for help with [animalizate.org](https://animalizate.org)
-
-- 💬 Ask me about **python, angular**
+- 💬 Ask me about **python, angular, react, flutter, postgresql, redis, devops**
 
 - 📫 How to reach me **mricharleon@gmail.com**
 
